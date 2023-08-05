@@ -471,10 +471,11 @@ nav{
     margin: 2px;
     padding: 8px;
 }
-#search-input{
+#search-container input{
   width: 100%;
 }
-.service-container button{
+.
+#search-container button{
   margin: 5% 33%;
 }
 .category_btn{
